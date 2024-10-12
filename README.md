@@ -1,6 +1,6 @@
 # Conversation Summarizer using Large Language Models
 ## Project Overview
-- Development of conversation summarization models using techniques like TF-IDF, TextRank, T5, BART, and GPT-4.
+- Development of conversation summarization models using techniques like TF-IDF , TextRank , T5, BART, and GPT-4.
 - Deployment of the model on Streamlit for user interaction.
 
 ## Goals and Objectives
