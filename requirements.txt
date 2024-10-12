@@ -1,0 +1,6 @@
+transformers
+streamlit
+SentencePiece
+torch>=1.5.0
+rouge_score
+pandas
